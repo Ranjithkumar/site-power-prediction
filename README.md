@@ -1,2 +1,2 @@
 # site-power-prediction
-Site Power Prediction
+Predicting Site Power Production for next month using Linear Regression
